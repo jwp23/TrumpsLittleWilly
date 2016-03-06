@@ -1,4 +1,8 @@
-walk(document.body);
+if (count != undefined) {
+    walk(document.body);
+    var count = 1;
+}
+
 setTimeout(function () {
     walk(document.body);
 }, 1000);

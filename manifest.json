@@ -15,9 +15,10 @@
       "run_at": "document_end"
     }
   ],
-  "description": "Find out what Trump's Little Willy has to say. It will replace all instances of \"Trump\" and \"Drumpf\" with \"Trump's Little Willy\" or \"Drumpf's Little Willy\"",
+  "description": "This extension will replace all instances of \"Trump\" and \"Drumpf\" with \"Trump's Little Willy\" or \"Drumpf's Little Willy\"",
   "manifest_version": 2,
-  "name": "TrumpsLittleWilly",
+  "name": "Trump's Little Willy",
+  "short_name": "Trumps Willy",
   "permissions": [
     "http://*.google.com/",
     "http://*.com/",
